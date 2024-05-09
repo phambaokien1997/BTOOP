@@ -1,0 +1,7 @@
+E:\13BAIOOP\Bài 2\Bài 2\bin\Debug\Bài 2.exe.config
+E:\13BAIOOP\Bài 2\Bài 2\bin\Debug\Bài 2.exe
+E:\13BAIOOP\Bài 2\Bài 2\bin\Debug\Bài 2.pdb
+E:\13BAIOOP\Bài 2\Bài 2\obj\Debug\Bài 2.csproj.AssemblyReference.cache
+E:\13BAIOOP\Bài 2\Bài 2\obj\Debug\Bài 2.csproj.CoreCompileInputs.cache
+E:\13BAIOOP\Bài 2\Bài 2\obj\Debug\Bài 2.exe
+E:\13BAIOOP\Bài 2\Bài 2\obj\Debug\Bài 2.pdb
